@@ -4,11 +4,10 @@ Following steps are taken :
 Importing the libraries
 loading the datasets
 Data preprocessing
-rename column
 knowing the statistics of dataset
-finding the null values
+finding the null values and replacing the mean value
 exploratory data analysis
 finding outliers
 Removing outliers
 correlation between the features using Pearson's Correlation Coefficient
-strong correlation is found in between Education & Earning, Hours & Earning
+Hypothesis testing and p-test
